@@ -1,8 +1,7 @@
 ## 안녕하세요, 성장형 프론트개발자 김지현 입니다 👋
 </br>
 </br>
-웹 디자이너를 넘어 더 넓은 분야에서 활약하고자 프론트앤드의 세계로 뛰어든</br>
-김지현이라고 합니다!
+사용자 중심 디자인과 개발 역량의 조화를 중시하는 개발자 김지현 입니다
 </br>
 </br>
 🌱my portfolio</br>
@@ -47,6 +46,8 @@ https://alrang-portfolio-alrangs-projects.vercel.app/
 </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alrang0929)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falrang0929&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 </br>
 </br>
