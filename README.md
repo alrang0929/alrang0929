@@ -50,16 +50,6 @@ https://alrang-portfolio-alrangs-projects.vercel.app/
 </br>
 </br>
 </br>
--->
-💬 Current interests
-</br>
-</br>
-- 다양한 만남: 개발자 크루에 들어가 다양한 업계의 개발자 분들을 접하며 개발에 대한 시선을 넓히고 있어요!
-  </br>
-- 서브 프로젝트: 현재 진행중인 개인 프로잭트가 마무리되면 서브 프로젝트에 참여하는 것을 목표로 하고 있어요!
-- 
-[![히트](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falrang0929&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=히트&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
 **alrang0929/alrang0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
