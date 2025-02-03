@@ -1,4 +1,4 @@
- <img src="https://github-readme-stats.vercel.app/api?username=ejaman&show_icons=true&theme=gotham">
+ <img src="https://github-readme-stats.vercel.app/api?username=alrang0929&show_icons=true&theme=gotham">
 </br>
 
 😎 Main language used..
